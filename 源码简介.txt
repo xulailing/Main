@@ -1,0 +1,1 @@
+android市面主流侧滑框架，本架构主要实现侧滑出现底部view和首页实现tabhost效果，并且每一个fragment支持使用多个viewpager,很好的处理viewpager一次全部加载问题，可以根据viewpager出现的时候调用初始化页面，提高性能。这是一个不错的架构，欢迎android小伙伴们一起学习。 本项目主要底部TabFragment和左边侧滑DragLayout 以及CustomViewPager 实现，并且提供退出应用的一种关闭所有acitiviy的方式。
